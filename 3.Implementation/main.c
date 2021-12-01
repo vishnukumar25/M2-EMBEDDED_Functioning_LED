@@ -1,8 +1,4 @@
 
-/*
- * Created: 30-11-2021 21:10:00
- * Author : Gulshan J Dharmaraj
- */ 
 
 #define F_CPU 1000000UL
 #include <avr/io.h>
